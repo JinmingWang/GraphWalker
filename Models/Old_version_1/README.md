@@ -1,0 +1,2 @@
+# What is "Old_version_1"?
+This directory contains the old version of the code for the GraphWalker model. We are continuously improving GraphWalker. As a result, the updated version of the code may not fully match the paper. However, no big changes will be made to the overall structure, and the fundamental ideas will remain the same.
